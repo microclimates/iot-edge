@@ -1,3 +1,3 @@
-# Open IoT Edge Server
+# Moved
 
-This has moved to the [Open IoT Edge](https://github.com/iot-edge) project
+This repository has moved to the [Open IoT Edge](https://github.com/iot-edge) project
